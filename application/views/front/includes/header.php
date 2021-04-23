@@ -13,7 +13,7 @@
   <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" />
   <link rel="stylesheet" type="text/css" href="https://pro.fontawesome.com/releases/v5.14.0/css/all.css" />
   <!-- <link rel="stylesheet" type="text/css" href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/css%2Fthemify-icons.css?alt=media&token=98b1ecc3-956c-4eaa-b949-3b2a8437b07b" /> -->
-  <link rel="stylesheet" type="text/css" href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/css%2Fanimate.min.css?alt=media&token=0b55f1d9-f753-4271-a992-4a8928f10434" />
+  <!-- <link rel="stylesheet" type="text/css" href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/css%2Fanimate.min.css?alt=media&token=0b55f1d9-f753-4271-a992-4a8928f10434" /> -->
   <link rel="stylesheet" type="text/css" href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/css%2Fstyle.css?alt=media" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
   <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Fjquery.min.js?alt=media&token=9dc01439-c300-4389-8ee2-80d63dc3c701"></script>
