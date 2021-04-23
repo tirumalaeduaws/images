@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+// $route['default_controller'] = 'welcome/index';
 $route['default_controller'] = 'main/home';
 $route['home'] = 'main/home';
 $route['about-us'] = 'main/about';
