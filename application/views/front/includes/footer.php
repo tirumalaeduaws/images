@@ -29,7 +29,7 @@
                     <div class="col-md-4">
                         <div class="widget">
                             <a href="index.html" class="footer-logo">
-                              <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/main-logo.png" class="img-fluid" style="height:80px;" alt="">
+                              <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/logo.png" class="img-fluid" style="height:80px;" alt="">
                             </a>
                             <p class="mt-3 text-justify">Tirumala IIT & Medical Academy cordially invite you to explore the academic world of Tirumala, established in 2011, being led by Mr.Nunna Tirumalarao, 
                             a self-made man, the best counselor, an exemplary leader, a commendable administrator with uncompromising commitment to excellence.</p>

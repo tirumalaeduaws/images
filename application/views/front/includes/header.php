@@ -126,7 +126,7 @@
       <div class="container">
         <!-- Logo -->
         <a class="navbar-brand" href="<?php echo base_url()?>">
-          <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/main-logo.png" class="img-fluid" style="height:60px;" alt="">
+          <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/logo.png" class="img-fluid" style="height:60px;" alt="">
         </a>
         <!-- Menu opener button -->
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
