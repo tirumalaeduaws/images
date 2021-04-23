@@ -17,7 +17,7 @@
     </div>
   </div>
 </div>
-<span><?php if($page=="success"){echo "active";}?></span>
+<span class="<?php if($page=="success"){echo "active";}?>"></span>
     
     <!-- =======================
     footer  -->
