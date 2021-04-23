@@ -45,10 +45,10 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="widget address" style="background-image: url('<?php echo base_url()?>assets/front/images/world-map.png'); background-position: 50% 20px; background-repeat: no-repeat; background-size: contain;">
                             <ul class="list-unstyled">
-                                <li class="media mb-3"><i class="mr-3 display-8 fas fa-map-marker-aly"></i> Katheru, Rajahmundry, Andhra Pradesh  – 533105</li>
+                                <li class="media mb-3"><i class="mr-3 display-8 fas fa-map-marker-alt"></i> Katheru, Rajahmundry, Andhra Pradesh  – 533105</li>
                                 <li class="media mb-3"><i class="mr-3 display-8 fas fa-phone-alt"></i> <a href="tel:+91 8297923333">(91) 8297923333</a> </li>
                                 <li class="media mb-3"><i class="mr-3 display-8 fas fa-mail-bulk"></i> support@tirumalaedu.com</li>
-                                <li class="media mb-3"><i class="mr-3 display-8 fas fa-time"></i>
+                                <li class="media mb-3"><i class="mr-3 display-8 fas fa-clock"></i>
                                     <p>WEEK DAYS : <strong>09:00 AM- 6:00 PM</strong></p>
                                 </li>
                             </ul>
