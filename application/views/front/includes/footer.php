@@ -110,7 +110,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
     <!--Template Functions-->
     <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Fjquery.fitvids.js?alt=media&token=2d96c32a-1c0c-4152-bf31-ab8005824738"></script>
-    <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Ffunctions.js"></script>
+    
+    <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Ffunctions.js?alt=media&token=7c188dd5-6d2c-434e-ac33-a6be7b4263e6"></script>
     <script>
         $(document).ready(function() {
             if ($.cookie('pop') == null) {
