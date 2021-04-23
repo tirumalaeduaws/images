@@ -187,7 +187,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/filler/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/filler/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2400" data-height="1600"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/filler/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2400" data-height="1600"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
           </div>

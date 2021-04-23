@@ -29,7 +29,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/avagahana-sadasu/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/avagahana-sadasu/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/avagahana-sadasu/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -42,7 +42,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/chaganti/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/chaganti/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/chaganti/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/garden-party/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/garden-party/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/garden-party/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -68,7 +68,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/independence-day/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/independence-day/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/independence-day/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -81,7 +81,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/krishnastami/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/krishnastami/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/krishnastami/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -94,7 +94,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/price-distribution/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/price-distribution/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/price-distribution/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -107,7 +107,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/saraswathi/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/saraswathi/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/saraswathi/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@
                   <img src="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/others/<?=$i;?>.jpg" alt="">
                 </div>
                 <div class="portfolio-card-footer">
-                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/others/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="ti-fullscreen"></i></a>
+                  <a class="full-screen" href="https://raw.githubusercontent.com/tirumalaeduaws/images/main/assets/front/images/gallery/others/<?=$i;?>.jpg" data-fancybox="portfolio" data-caption="Fly in time" data-width="2048" data-height="1365"><i class="fas fa-expand-alt"></i></a>
                 </div>
               </div>
             </div>
