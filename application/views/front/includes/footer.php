@@ -98,7 +98,7 @@
     <!-- =======================
     footer  -->
 
-    <div> <a href="#" class="back-top btn btn-grad"><i class="ti-angle-up"></i></a> </div>
+    <div> <a href="#" class="back-top btn btn-grad"><i class="fas fa-chevron-up"></i></a> </div>
     <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Fpopper.min.js?alt=media&token=9752e68d-6160-46c4-b11c-d51b1316aa72"></script>
     <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Fbootstrap.min.js?alt=media&token=45f0021f-b38f-4993-8682-c4dd3cb3e173"></script>
     <script src="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/js%2Fjquery.easing.min.js?alt=media&token=d70eca98-f6b0-42c2-bcc4-ea64764bb1c3"></script>
