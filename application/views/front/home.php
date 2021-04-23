@@ -84,33 +84,33 @@
       <div class="modal-body text-center" style="height:300px;">
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO 6<sup>th</sup> STANDARD</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%206TH%20CBSE%20&%20ICSE-min.pdf" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%206TH%20STATE-min.pdf" target="_blank"  class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%206TH%20CBSE%20%26%20ICSE-min.pdf?alt=media&token=97e06315-bc6f-4920-935a-90904f982fea" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%206TH%20STATE-min.pdf?alt=media&token=c56ff6c2-8319-4ed7-b001-1c05cc518a41" target="_blank"  class="btn btn-primary">STATE</a>
          </div>
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO 7<sup>th</sup> STANDARD</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%207TH%20CBSE%20&%20ICSE-min.pdf" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%207TH%20STATE-min.pdf" target="_blank"  class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%207TH%20CBSE%20%26%20ICSE-min.pdf?alt=media&token=cf992de4-d145-474c-a25e-227cf38878e3" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%207TH%20STATE-min.pdf?alt=media&token=8fbcbfce-5e68-47c1-a9fa-75ea9d011810" target="_blank"  class="btn btn-primary">STATE</a>
          </div>
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO 8<sup>th</sup> STANDARD</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%208TH%20CBSE%20&%20ICSE-min.pdf" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%208TH%20STATE-min.pdf"  target="_blank" class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%208TH%20CBSE%20%26%20ICSE-min.pdf?alt=media&token=d00f1d0e-42a5-47a2-84f6-9cca53d673a4" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%208TH%20STATE-min.pdf?alt=media&token=c1eed484-7e51-4087-9cd5-6caf40f07382"  target="_blank" class="btn btn-primary">STATE</a>
          </div>
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO 9<sup>th</sup> STANDARD</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%209TH%20CBSE%20&%20ICSE-min.pdf" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%209TH%20STATE-min.pdf" target="_blank"  class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%209TH%20CBSE%20%26%20ICSE-min.pdf?alt=media&token=d6acc0c4-bf65-4c45-9c88-bcdcdbfdfc1a" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%209TH%20STATE-min.pdf?alt=media&token=f62d047b-3618-4795-ace4-d7d25c538be6" target="_blank"  class="btn btn-primary">STATE</a>
          </div>
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO 10<sup>th</sup> STANDARD</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%2010TH%20CBSE%20&%20ICSE-min.pdf" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%2010TH%20STATE-min.pdf" target="_blank"  class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%2010TH%20CBSE%20%26%20ICSE-min.pdf?alt=media&token=f52829cc-f4ed-42c9-bc43-a90960f2995f" target="_blank"  class="btn btn-info">CBSE & ICSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%2010TH%20STATE-min.pdf?alt=media&token=faa5ccd8-91c5-4a6c-b5d5-661690bf535c" target="_blank"  class="btn btn-primary">STATE</a>
          </div>
          <div style="border:2px solid red;border-style:dashed;" class="m-1 p-2">
           <h4 class="text-dark">INTO JEE/NEET 2021-23 WITH INTER SYLLABUS</h4>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%20INTER%20CBSE%20%20_SET-1_06-03-21-min.pdf" target="_blank"  class="btn btn-info">CBSE</a>
-            <a href="https://tirumalaedu.com/assets/front/pdf/INTO%20INTER%20STATE%20%20_SET-1_06-03-21-min.pdf" target="_blank"  class="btn btn-primary">STATE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%20INTER%20CBSE%20%20_SET-1_06-03-21-min.pdf?alt=media&token=1fa4f688-d93a-486c-863d-14b898f61ff9" target="_blank"  class="btn btn-info">CBSE</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/tirumalaeduaws-5040a.appspot.com/o/INTO%20INTER%20STATE%20%20_SET-1_06-03-21-min.pdf?alt=media&token=9c2d6ee8-ecce-4cfc-8e3d-19f4ce52aa9c" target="_blank"  class="btn btn-primary">STATE</a>
          </div>
       </div>
         <div class="modal-footer">
